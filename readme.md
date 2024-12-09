@@ -1,0 +1,1 @@
+Script para transcrição de textos em português para inglês
